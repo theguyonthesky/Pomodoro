@@ -44,7 +44,7 @@ The app uses the Pomodoro technique:
 
 3. Place tomato.png in the same directory as main.py.
 
-Run the script:
+4. Run the script:
 
 python main.py
 
