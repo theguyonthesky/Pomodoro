@@ -25,12 +25,12 @@ The app uses the Pomodoro technique:
 
 - The timer automatically handles the cycle and updates the interface.
 
-# Tech stack
-- Python
+# Tools and Modules Used
+Python – main programming language
 
-- Tkinter – for building the GUI
+tkinter – for building the GUI
 
-- math – for time calculations
+math – for time and session calculations
 
 # Files
 - main.py: Main application logic and GUI
@@ -44,9 +44,10 @@ The app uses the Pomodoro technique:
 
 3. Place tomato.png in the same directory as main.py.
 
-4. Run the script:
-
-python main.py
+4. Run the app using one of the following methods:
+    - Terminal (macOS/Linux): 'python3 main.py'
+    - Windows (or IDEs like VS Code, PyCharm): 'python main.py' or use the Run button
 
 # License
 This project is licensed under the MIT License. You’re free to use, modify, and share it.
+**Good luck and happy studying! 😊**
