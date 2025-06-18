@@ -1,7 +1,7 @@
 # Pomodoro Timer ⏱️🍅
 A Python Pomodoro timer app with a visual interface to help you manage your work sessions and breaks effectively. Built using the Tkinter GUI library.
 
-#Features
+# Features
 - 25-minute work sessions
 
 - 5-minute short breaks
