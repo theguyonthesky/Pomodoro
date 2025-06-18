@@ -26,11 +26,11 @@ The app uses the Pomodoro technique:
 - The timer automatically handles the cycle and updates the interface.
 
 # Tools and Modules Used
-Python – main programming language
+- Python – main programming language
 
-tkinter – for building the GUI
+- tkinter – for building the GUI
 
-math – for time and session calculations
+- math – for time and session calculations
 
 # Files
 - main.py: Main application logic and GUI
