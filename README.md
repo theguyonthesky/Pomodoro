@@ -50,4 +50,4 @@ The app uses the Pomodoro technique:
 
 # License
 This project is licensed under the MIT License. You’re free to use, modify, and share it.
-**Good luck and happy studying! 😊**
+<br>**Good luck and happy studying! 😊**
