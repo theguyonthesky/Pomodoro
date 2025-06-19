@@ -28,14 +28,14 @@ The app uses the Pomodoro technique:
 # Tools and Modules Used
 - Python – main programming language
 
-- tkinter – for building the GUI
+- `tkinter` – for building the GUI
 
-- math – for time and session calculations
+- `math` – for time and session calculations
 
 # Files
-- main.py: Main application logic and GUI
+- `main.py`: Main application logic and GUI
 
-- tomato.png: Image used in the timer display
+- `tomato.png`: Image used in the timer display
 
 # How to run
 1. Make sure Python is installed on your system.
