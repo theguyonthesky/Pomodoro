@@ -37,7 +37,7 @@ The app uses the Pomodoro technique:
 
 - `tomato.png`: Image used in the timer display
 
-# How to run
+# How to Run
 1. Make sure Python is installed on your system.
 
 2. Clone or download this repository.
